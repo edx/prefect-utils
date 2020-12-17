@@ -1,6 +1,5 @@
 import mock
 import pytest
-
 from prefect.core import Flow
 from prefect.engine import signals
 from pytest_mock import mocker  # noqa: F401
